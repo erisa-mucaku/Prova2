@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <OutputAssemblies>
+    <File>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.dll</File>
+  </OutputAssemblies>
+  <SatelliteAssemblies />
+  <DebugSymbols>
+    <File>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.pdb</File>
+  </DebugSymbols>
+  <MappingFile>C:\Users\Erisa\source\repos\App1\App1\DotfuscatorReports\Release\AnyCPU\Renaming.xml</MappingFile>
+  <ReportFiles>
+    <File>C:\Users\Erisa\source\repos\App1\App1\DotfuscatorReports\Release\AnyCPU\Removal.xml</File>
+    <File>C:\Users\Erisa\source\repos\App1\App1\DotfuscatorReports\Release\AnyCPU\SmartObfuscation.xml</File>
+  </ReportFiles>
+  <MarkupFiles />
+  <OutputAssembliesInternal>
+    <File NewPath="C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.dll" OldPath="C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\App1.dll" />
+  </OutputAssembliesInternal>
+  <Pdbs>
+    <File NewPath="C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.pdb" OldPath="C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\App1.pdb" />
+  </Pdbs>
+</Output>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.dll</new>
+    <old>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\App1.dll</old>
+  </entry>
+  <entry>
+    <new>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\Dotfuscator\dfout\App1.pdb</new>
+    <old>C:\Users\Erisa\source\repos\App1\App1\obj\Release\120\App1.pdb</old>
+  </entry>
+</dependency-mappings>
